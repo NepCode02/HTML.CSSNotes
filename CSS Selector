@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+
+
+        h1 {
+            color: rgb(122, 17, 78);
+        }
+
+        div {
+            background-color: aqua;
+        }
+        #green,h3{
+
+        }
+
+        .blue {
+            background-color: blueviolet;
+            color: azure;
+            border: 2px solid black;
+
+        }
+
+        .red {
+            background-color: red;
+            color: white;
+            border: 2px solid black;
+        }
+
+        .grey {
+            background-color: grey;
+            color: white;
+            border: 2px solid black;
+        }
+        *{
+            margin: 1px;
+            padding:1px;
+        }
+    </style>
+    <!-- Explanination -->
+</head>
+
+<body>
+    <diV>
+        <h1> This is my selector of CSS page </h1>
+        <h1> This is too</h1>
+        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem rerum quisquam qui? Esse at eius, ipsum
+            cupiditate unde aliquid voluptatem quis hic repudiandae, quas suscipit corrupti vitae, atque libero tempore
+            doloremque officiis!</p>
+        <div id="red">bg is red</div>
+        <span class="blue">First tag</span>
+        <span class="grey">Second tag</span>
+        <span class="red">Third Tag</span>
+
+    </diV>
+</body>
+
+</html>
