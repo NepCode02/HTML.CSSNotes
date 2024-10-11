@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- Ordered List-->
+    <uL>
+        <li> Item 1 </li>
+        <li> Item 2</li>
+        <li> Item 3</li>
+
+    </uL>
+    <!-- Ordered List-->
+    <li>  First Item  </li>
+    <li> Second Item </li>
+    <li> Third Item </li>
+    <!--Description List-->
+    <dl>
+        <dt> Term 01</dt>
+        <dd> Description 02</dd>
+        <dt>Term 2</dt>
+        <dd> Description 03</dd>
+    </dl>
+</body>
+
+</html>
