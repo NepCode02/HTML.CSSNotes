@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction of CSS</title>
+    <style>
+        Body {
+            background-color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+    </div>
+    <!--Explanination ..
+    CSS is sort form of Cascading Style Sheet and it's used to make your website 
+    beauty and attractive-->
+    <!--We need to open style and container tag to write CSS -->
+    <!--Points to remember:-->
+    <!--We should open style tag after the title-->
+    <!--we should open div container tag after main body tag-->
+</body>
+
+</html>
