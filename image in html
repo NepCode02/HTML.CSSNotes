@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="a-3d-rendering-image-of-grassed-hill-nature-scenery-png" alt="photo">
+    <!--to open image tag simple write img and press enter (but be sure you use 
+    visual studio code)-->
+    <!-- and alt means when user have no internet connection show message popup 
+     which you write there-->
+</body>
+</html>
