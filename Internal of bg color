@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+    </div>
+    <!--explanination ..
+    Internal way of saving/showing of bg color 
+but  be sure create a new file of anything you want at last don't miss .css
+    -->
+</body>
+</html>
