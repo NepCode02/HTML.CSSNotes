@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--Practising Basic Tags and attributes on HTML5 -->
+    <p> Welcome to the Basic HTML Tags and attributes </p>
+    <!--P indicates as paragraph-->
+    <h1>This is a heading</h1>
+    <h2>This is a heading</h2>
+    <h3>This is a heading</h3>
+    <h4>This is a heading</h4>
+    <h5>This is a heading</h5>
+    <h6>This is a heading</h6>
+    <!--h indicates as heading and there are upto only 6 heading-->
+    <!--There are some unclosed tag like as:-->
+    <br>
+    <hr>
+    <!--HTML Text tags-->
+    <p>This is a paragraph</p>
+    <strong>This is a bold</strong>
+    <em>This is a itallic tag</em>
+    <abbr>This is a marks abbreviations and shows their full form on hover</abbr><br>
+    <bdo>Its mean default direction</bdo>
+    <blockquote>Its mean quote text </blockquote>
+    <dfn> Its mean define the text</dfn>
+    <!--HTML link tags-->
+    <!--HTML link tags opened by a or base lets check it out -->
+    <a href="https://www.youtube.com">Go to Youtube</a>
+    <base href="https://www.twitter.com/" target="_blank">
+    <!-- a is a tag and href is attributes-->
+    <!--Now let's move to some list tags-->
+    <ul>
+        Computer
+        Mouse
+        Pendrive
+        <br>
+    </ul>
+    <!--ul indicates as unordered list-->
+    <ol>
+        <li>
+            Mouse
+        </li>
+        <li>
+            Computer
+        </li>
+        <Li>
+            Pendrive
+        </Li>
+    </ol>
+    <!--ol means ordered list and li means list 
+    Points to remember after opened ol tag you need to compulsory open li tag-->
+    <!-- dt and dd is also list tags but they are not too much important-->
+    <!--Now let's move to table tags-->
+    <table>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Ramu</th>
+                    <th>SHyam</th>
+                    <th>Hari</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Android Developer</td>
+                    <td>Software Engineer</td>
+                    <td>Editor</td>
+                </tr>
+                <tr>
+                    <td>Nepal</td>
+                    <td>India</td>
+                    <td>Japan</td>
+                </tr>
+            </tbody>
+        </table>
+        <!--There are many table tags like tfoot,col,colorgroup and caption
+here we only see basic-->
+        <!--Now lets move Form tags-->
+        <form>
+            Enter Your Name:<input type="text"><br>
+            Enter Your Surname:<input type="text"><br>
+            Enter Your Father Name:<input type="text"><br>
+            Enter Your Mother Name:<input type="text"><br><br>
+            <label for="exampleSelect">Choose an option:</label>
+            <select id="exampleSelect" name="exampleSelect">
+                <option value="option1">Football</option>
+                <option value="option2">Volleyball</option>
+                <option value="option3">Cricket</option>
+                <option value="option4">Basketball</option>
+            </select><br>
+            <select>
+                <optgroup label="Your Hobby">
+                    <option value="value1">Swimming</option>
+                    <option value="value2">Writing</option>
+                </optgroup>
+                <optgroup label="Your Skill">
+                    <option value="value3">Drawing</option>
+                    <option value="value4">Coding</option>
+                </optgroup>
+            </select>
+
+
+
+        </form>
+        <textarea name="" id="">This is a textarea</textarea><br>
+        <button> This is a button</button>
+        <fieldset>
+            <legend>Legend Text</legend>
+            
+            <!-- Form elements go here -->
+            <label for="input1">Your Name</label>
+            <input type="text" id="input1" name="input1">
+        
+            <label for="input2">Your Email</label>
+            <input type="text" id="input2" name="input2">
+        
+        </fieldset>
+<!--That's it for now i would upload more tag and attributes on future don't worry -->
+<p> What is a comment?</p>
+<strong> Comments is a ignore text/tags on browser</strong>
+<strong> How to open?</strong>
+<p> This is a syntax of comment </p>
+<! --> 
+<P> Do space after -</P>
+<!--That's it for now i would upload more tag and attributes on future don't worry -->
+</body>
+
+</html>
