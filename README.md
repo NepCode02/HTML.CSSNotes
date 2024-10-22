@@ -6,4 +6,4 @@ Follow and send message in Instagram or X(Twitter)
 Username: X(Twitter): Nep_Code Matrix072, @ghanashyam072
 Username: Instagram: NepCode, @samrajbudhathoki072
 Much Love:D
-©️Nep_Code02 and Nep_Code Teams
+©️Nep_Code02 and Nep_Code Team
